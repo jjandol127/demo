@@ -6,3 +6,6 @@ This is a simple readme file.
 modified again
 
 This is point of trouble.
+
+stash point???
+
